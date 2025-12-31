@@ -37,7 +37,7 @@ TaskManager/
 
 ### Requisiti
 - Xcode 15.0 o successivo
-- iOS 15.0 o successivo
+- iOS 16.0 o successivo
 - macOS per sviluppo
 
 ### Installazione
